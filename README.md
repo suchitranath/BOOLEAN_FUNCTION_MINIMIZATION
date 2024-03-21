@@ -39,12 +39,16 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![image](https://github.com/suchitranath/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742631/e90e950c-a759-4664-9a97-b92cdb2c9f49)
 
 **Output:**
 
-**RTL**
+![image](https://github.com/suchitranath/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742631/e41ed2ae-a69d-4e5f-b5f0-82eca4b89439)
+
 
 **Timing Diagram**
+
+![image](https://github.com/suchitranath/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742631/4a3dd489-3c14-45c9-84ad-187ea064ec47)
 
 **Result:**
 
